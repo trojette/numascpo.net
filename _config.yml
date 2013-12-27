@@ -1,0 +1,7 @@
+name: État et révolution numérique
+markdown: redcarpet
+pygments: true
+permalink: /:categories/:year/:month/:day/:title.html
+url: http://www.numascpo.net
+base_url: /
+destination: /home/adn/web/numascpo.net/_site/

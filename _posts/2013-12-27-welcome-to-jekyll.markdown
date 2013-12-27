@@ -1,0 +1,25 @@
+---
+layout: post
+title:  Séance 7 : Apprendre, enseigner, créer le savoir et le partager au XXI<sup>e</sup> siècle
+date:   2013-12-27 20:12:48
+categories: seance-7 savoir ouvert knowledge
+tags: savoir connaissance sciences éducation enseignement supérieur recherche université MOOC e-learning pédagogie supports Open Access partage travail collaboratif Wikipedia
+---
+
+You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
+To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+
+[jekyll-gh]: https://github.com/mojombo/jekyll
+[jekyll]:    http://jekyllrb.com
