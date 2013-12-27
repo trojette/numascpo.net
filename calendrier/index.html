@@ -1,0 +1,18 @@
+---
+layout: pages
+title: État et révolution numérique
+---
+
+<h3>Liste des séances</h3>
+
+  <table class="noborder">
+    {% for seance in site.seances %}
+      <tr>
+       <td>{{ seance.date | capitalize }}</td>
+       <td>séance {{ seance.seance }}</td> 
+       <td><a href="/seance-{{ seance.seance }}">{{ seance.titre }}</a></td>
+      </tr>
+    {% endfor %}
+  </table>
+
+
