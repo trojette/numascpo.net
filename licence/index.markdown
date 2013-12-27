@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Licences applicables
+title: "Licences applicables"
 ---
 
 <h3>Licence ouverte</h3>
@@ -39,7 +39,9 @@ caractéristiques suivantes :
 <h3>Télécharger la licence ouverte</h3>
 
   <ul class="posts">
-    {% for licence in site.licences.licences %}
-      <li><span>{{ licence.langue }}</span> &raquo; <a href="{{ licence.pdf }}">PDF</a> ; <a href="{{ licence.rtf }}">RTF</a></li>
+    {% for licence in site.licences %}
+    
+   <li><span>{{ licence.langue }}</span>&nbsp;: <a href="{{ licence.pdf }}">PDF</a> <a href="{{ licence.rtf }}">RTF</a></li>
+
     {% endfor %}
   </ul>

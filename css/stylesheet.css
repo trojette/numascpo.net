@@ -44,6 +44,10 @@ table {
   border-spacing: 0;
 }
 
+.noborder {
+  border: none;
+}
+
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
@@ -252,6 +256,118 @@ td {
 form {
   background: #f2f2f2;
   padding: 20px;
+}
+
+.barrehaut {
+  height: 0.8em;
+}
+
+.menu > li {
+  float: left;
+  list-style-type: none;
+}
+
+.menu > li > a {
+  padding: 1px;
+  border-radius: 5px;
+  color: #ffffff;
+}
+
+.menu > li + li {
+  margin-left: 2px;
+}
+
+.menu > li.active > a {
+  color: #212121;
+  background-color: #999999;
+}
+
+.menu > li.active > a:hover,
+.menu > li.active > a:focus {
+  color: #212121;
+  background-color: #ffffff;
+}
+
+.navigation {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.navigation:before,
+.navigation:after {
+  display: table;
+  content: " ";
+}
+
+.navigation:after {
+  clear: both;
+}
+
+.navigation:before,
+.navigation:after {
+  display: table;
+  content: " ";
+}
+
+.navigation:after {
+  clear: both;
+}
+
+.navigation > li {
+  position: relative;
+  display: block;
+}
+
+.navigation > li > a {
+  position: relative;
+  display: block;
+  padding: 8px 12px;
+}
+
+.navigation > li > a:hover,
+.navigation > li > a:focus {
+  text-decoration: none;
+  color: #212121;
+  background-color: #eeeeee;
+}
+
+.navigation > li.disabled > a {
+  color: #999999;
+}
+
+.navigation > li.disabled > a:hover,
+.navigation > li.disabled > a:focus {
+  color: #999999;
+  text-decoration: none;
+  cursor: not-allowed;
+  background-color: transparent;
+}
+
+.navigation .open > a,
+.navigation .open > a:hover,
+.navigation .open > a:focus {
+  background-color: #eeeeee;
+  border-color: #428bca;
+}
+
+.navigation .nav-divider {
+  height: 1px;
+  margin: 9px 0;
+  overflow: hidden;
+  background-color: #eeeeee;
+}
+
+.navigation > li > a > img {
+  max-width: none;
+}
+
+.hidden-sm {
+  display: block !important;
+}
+
+.droite {
+  float: right !important;
 }
 
 /*******************************************************************************
