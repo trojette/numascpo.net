@@ -9,7 +9,7 @@ destination: /home/adn/web/numascpo.net/_site/
 title: "État et révolution numérique"
 description: "Site de la conférence de méthode du Master d'affaires publiques de SciencesPo Paris"
 
-toplinks: ['licence', 'calendrier', 'blog']
+toplinks: ['blog', 'calendrier', 'licence']
 
 licences:
     - langue: français
