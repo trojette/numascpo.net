@@ -3,7 +3,12 @@ layout: pages
 title: "Licences applicables"
 ---
 
-<h3>Licence ouverte</h3>
+<h3>Licence générale</h3>
+
+Sauf lorsque le contraire est mentionné, le contenu est sous Licence
+ouverte (voir ci-dessous).
+
+<h4>Licence ouverte</h4>
 
 Dans le cadre de la politique du Gouvernement en faveur de l’ouverture
 des données publiques («&nbsp;Open Data»&nbsp;), Etalab a conçu
@@ -41,7 +46,7 @@ caractéristiques suivantes :
   <ul class="posts">
     {% for licence in site.licences %}
     
-   <li><span>{{ licence.langue }}</span>&nbsp;: <a href="{{ licence.pdf }}">PDF</a> <a href="{{ licence.rtf }}">RTF</a></li>
+  <li><span>{{ licence.langue }}</span>&nbsp;: <a href="{{ licence.pdf }}">PDF</a> <a href="{{ licence.rtf }}">RTF</a></li>
 
     {% endfor %}
   </ul>

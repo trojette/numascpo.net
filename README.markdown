@@ -16,6 +16,4 @@ Cette page d'accueil explique le fonctionnement de ce site collaboratif et renvo
 
 Si vous ne sortez vraiment pas, regardez la <a href="http://help.github.com/pages">documentation GitHub</a> et collaborez avec les membres de la conférence. En dernier recours, adressez-vous à vos enseignants.
 
-## Derniers billets publiés
-
 [iep]: http://www.sciences-po.fr

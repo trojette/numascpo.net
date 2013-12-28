@@ -1,7 +1,7 @@
 name: État et révolution numérique
 markdown: redcarpet
 pygments: true
-permalink: /:categories/:year/:month/:day/:title.html
+permalink: /blog/:categories/:year/:month/:day/:title.html
 url: http://www.numascpo.net
 base_url: /
 destination: /home/adn/web/numascpo.net/_site/
@@ -9,7 +9,16 @@ destination: /home/adn/web/numascpo.net/_site/
 title: "État et révolution numérique"
 description: "Site de la conférence de méthode du Master d'affaires publiques de SciencesPo Paris"
 
-toplinks: ['licence', 'calendrier', 'archives']
+toplinks: ['licence', 'calendrier', 'blog']
+
+licences:
+    - langue: français
+      pdf: Licence-Ouverte-Open-Licence.pdf
+      rtf: Licence-Ouverte-Open-Licence.rtf
+      
+    - langue: anglais
+      pdf: Licence-Ouverte-Open-Licence-ENG.pdf
+      rtf: Licence-Ouverte-Open-Licence-ENG.rtf
 
 seances:
     - seance: 1

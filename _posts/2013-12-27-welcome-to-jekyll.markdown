@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Séance 7 : Apprendre, enseigner, créer le savoir et le partager au XXIe siècle"
+title:  "Apprendre, enseigner, créer le savoir et le partager au XXIe siècle"
 date:   2013-12-27 20:12:48
 categories: seance-7
 tags: savoir ouvert enseignement MOOC recherche flip Khan

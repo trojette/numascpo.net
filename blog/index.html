@@ -1,0 +1,29 @@
+---
+layout: pages
+title: "État et révolution numérique"
+---
+
+  {% for post in site.posts %}
+    {% unless post.next %}
+                <h3 class="date_title">{{ post.date | date: '%Y' }}</h3>
+      <ul class="this posts">
+    {% else %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+      {% if year != nyear %}
+        </ul>
+        <h3 class="date_title">{{ post.date | date: '%Y' }}</h3>
+        <ul class="past posts">
+      {% endif %}
+    {% endunless %}
+                <li style="list-style-type: none;">
+                <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+                <div class="droite post_tags hidden-sm">
+                        {{ post.categories | join: ', '}}
+                </div>
+                <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date:"%d %b" }} </time>
+                ›
+                <span itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></span>
+                </article>
+                </li>
+  {% endfor %}
