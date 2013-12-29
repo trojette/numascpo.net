@@ -8,7 +8,7 @@ base_url: /
 title: "État et révolution numérique"
 description: "Site de la conférence de méthode du Master d'affaires publiques de SciencesPo Paris"
 
-toplinks: ['blog', 'calendrier', 'licence']
+toplinks: ['blog', 'pays', 'calendrier', 'licence']
 
 licences:
     - langue: français

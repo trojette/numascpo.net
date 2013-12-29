@@ -5,41 +5,36 @@ title: "État et révolution numérique"
 
 <h3>Bienvenue</h3>
 
-<p>Ce site est dédié à l'enseignement &laquo;&nbsp;<em>État et
-révolution numérique</em>&raquo;&nbsp; proposé aux élèves du Master
-d'affaires publiques de <a href="http://www.sciences-po.fr">SciencesPo
-Paris</a> dans le cadre d'une conférence de méthode de
-12&nbsp;séances. Il a vocation à être collaboratif, tout son contenu
-étant sous <a href="/licence">licence ouverte</a>.</p>
+<p>Ce site est dédié à l'<a
+href="http://formation.sciences-po.fr/en/enseignement/2013/oafp/3610">enseignement</a>
+&laquo;&nbsp;<em>État et révolution numérique</em>&raquo;&nbsp;
+proposé aux élèves du Master d'affaires publiques de <a
+href="http://www.sciences-po.fr">SciencesPo Paris</a> dans le
+cadre d'une conférence de méthode de 12&nbsp;séances. Il a
+vocation à être collaboratif, tout son contenu étant sous <a
+href="/licence">licence ouverte</a>.</p>
 
-<p>En somme, ce site deviendra ce que vous en ferez&nbsp;!</p>
+<p>En somme, ce site deviendra <a 
+href="{% post_url 2013-12-29-premier-billet %}">ce que vous en
+ferez&nbsp;!</a></p>
 
 <p>Cette page d'accueil explique le fonctionnement de ce site collaboratif
 et renvoie vers les contenus intéressant chacune des séances de la
 conférence.</p>
 
-<h3>Une difficulté ?</h3>
-
-<p>Si vous ne sortez vraiment pas, regardez la <a
-href="http://help.github.com/pages">documentation GitHub</a> et
-collaborez avec les membres de la conférence. En dernier recours,
-adressez-vous à vos enseignants.</p>
-
 <h3>Derniers billets publiés</h3>
 
- <table class="noborder">
-    {% for post in site.posts %}
-
-  <tr>
-   <td class="noborder"><span>{{ post.date | date_to_string }}</span></td>
-   <td class="noborder">
-    <div><a href="{{ post.url }}">{{ post.title }}</a></div>
-    <p class="right">{{ post.categories | join: ', ' }}</p>
-    </td>
-  </tr>
-
-    {% endfor %}
-  </table>
+<ul class="past posts">
+  {% for post in site.posts %}
+  <li style="list-style-type: none;">
+  <div class="droite tags">
+   {{ post.categories | join: ', '}}
+  </div>
+  <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date:"%d %b" }} </time>
+  ›
+  <span itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></span>
+  {% endfor %}
+</ul>
 
 <h3>Derniers tweets</h3>
 

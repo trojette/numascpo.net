@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contribuer au blog
+title: Contribuer à ce blog
 date: 2013-12-29 18:30:44
 categories: seance1
 tags: partage connaissance contribution participation blog
@@ -82,6 +82,15 @@ vraiment pas [MacGyver][MacPedia]) avant de vous y mettre.
 <iframe width="420" height="315"
 src="//www.youtube.com/embed/lc8RFPZUkiQ" frameborder="0"
 allowfullscreen></iframe>
+
+
+### Une difficulté ?
+
+<p>Si vous ne sortez vraiment pas, regardez la <a
+href="http://help.github.com/pages">documentation GitHub</a> et
+collaborez avec les membres de la conférence. En dernier recours,
+adressez-vous à vos enseignants.</p>
+
 
 [iep]: //www.sciences-po.fr
 [GitHub]: https://github.com/trojette/numascpo.net

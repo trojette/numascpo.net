@@ -1,0 +1,17 @@
+---
+layout: post
+title: L'Estonie (exemple à compléter)
+date: 2013-12-29 21:00:44
+pays: estonie
+categories: seance2
+---
+
+### L'accès aux nouvelles technologies
+
+### L'administration électronique
+
+### La place de l'économie numérique
+
+### La fiscalité du numérique
+
+### Les bonnes pratiques
