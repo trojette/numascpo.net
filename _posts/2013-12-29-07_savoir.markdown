@@ -35,10 +35,12 @@ _Point d’actualité_
 _Présentation pays_ : Canada
 
 _Exposés proposés_ :
+
 - Est-il encore possible de faire un [MOOC][] francophone ?
 - Le savoir libre, une utopie ?
 
 Exemple de mémoire collectif :
+
 - [Wikipedia][], aboutissement du projet des Encyclopédistes ?
 
 [bibli]: http://fr.wikipedia.org/wiki/Biblioth%C3%A8que_d%27Alexandrie
