@@ -34,7 +34,7 @@ adressez-vous à vos enseignants.</p>
    <td class="noborder"><span>{{ post.date | date_to_string }}</span></td>
    <td class="noborder">
     <div><a href="{{ post.url }}">{{ post.title }}</a></div>
-    <div>({{ post.tags | join: ', ' }})</div>
+    <p class="right">{{ post.categories | join: ', ' }}</p>
     </td>
   </tr>
 
