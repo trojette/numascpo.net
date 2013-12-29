@@ -18,7 +18,7 @@ title: "État et révolution numérique"
     {% endunless %}
                 <li style="list-style-type: none;">
                 <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-                <div class="droite post_tags hidden-sm">
+                <div class="droite tags">
                         {{ post.categories | join: ', '}}
                 </div>
                 <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date:"%d %b" }} </time>

@@ -5,6 +5,40 @@ by Jason Costello, @jsncostello
 
 @import url(pygment_trac.css);
 
+/***************
+Perso
+***************/
+
+p.center {
+  text-align: center;
+}
+
+table.share > tr > td {
+  position: center;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 8pt;
+  border: none;
+}
+
+p.copyright {
+  text-align: center;
+  font-size: 8pt;
+}
+
+p.right {
+  text-align: right;
+  font-size: 8pt;
+}
+
+img.thumbnail {
+  width: 200px;
+}
+
+div.tags {
+  font-size: 7pt;
+}
+
 /*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/

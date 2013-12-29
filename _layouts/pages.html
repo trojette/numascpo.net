@@ -49,15 +49,43 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
           {{ content }}
+
+
+    <!-- SHARING -->
+    <hr />
+     <!-- FB -->
+       <p class="copyright">
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}/{{ page.url }}"
+         target="_blank" ><img
+         src="https://www.facebook.com/images/fb_icon_325x325.png"
+         width="16" alt="Partager sur FB" /></a>
+
+       <a target="_blank" href="https://twitter.com/share?=url={{ site.url }}/{{ page.url }}
+                 &amp;via=numascpo&amp;text={{ page.title }}&amp;hashtags=RevNumaScPo" ><img
+         src="https://twitter.com/favicons/favicon.ico"
+         width="16" alt="Partager sur Twitter" /></a>
+
+       <a href="https://plus.google.com/share?url={{ site.url }}/{{ page.url }}"
+          onclick="javascript:window.open(this.href,
+          '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');
+          return false;" target="_blank"><img
+          src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Partager sur Google+"/></a>
+
+       </p>
       </section>
+
+
+
     </div>
+
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p style="text-align: center;" class="copyright">Site géré par <a href="https://github.com/trojette">adn</a> -
-        Contenu sous <a href="/licence">Licence ouverte</a> - Thème hybride (GitHub Pages et Bootstrap)</p>
-        <p style="text-align: center;" class="copyright">Validation <a class="footer" href="http://validator.w3.org/check/referer">XHTML</a> et <a class="footer" href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.numascpo.net%2F/css/stylesheet.css&amp;usermedium=all">CSS</a></p>
+        <p class="copyright">Site géré par <a href="https://github.com/trojette">adn</a> -
+        Contenu sous <a href="/licence">Licence ouverte</a> (sauf exception) - Thème hybride (GitHub Pages et Bootstrap)</p>
+        <p class="copyright">Validation <a target="_blank" class="footer" href="http://validator.w3.org/check/referer">XHTML</a> et <a class="footer" target="_blank" href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.numascpo.net%2F/css/stylesheet.css&amp;usermedium=all">CSS</a></p>
       </footer>
+
     </div>
 
   </body>
