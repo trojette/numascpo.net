@@ -28,16 +28,18 @@ Une fois sur l'espace [GitHub][], vous avez trois options.
 
 Vous vous rendez sur le [dossier des billets du blog][blog-folder].
 
-Vous regardez à quoi ressemblent les billets du blog.
+Vous regardez à quoi ressemblent les billets du blog. Vous copiez celui
+qui ressemble le plus à ce que vous voulez faire et vous le modifiez à
+votre guise.
 
-Vous copiez celui qui ressemble le plus à ce que vous voulez faire et
-vous le modifiez à votre guise.
+Sinon, vous transmettez un fichier de texte (Word, LibreOffice ou simple
+texte) aux webmestres.
 
-Vous faites signe aux webmestres (par exemple sur [Twitter][]), pour
-demander l'intégration de votre proposition de billet. Si tout va bien,
-vous devriez recevoir une réponse rapidement. Si ce n'est pas le cas,
-pas d'inquiétude : soit les administrateurs sont morts, soit ils sont
-occupés !
+Par exemple, vous faites signe aux webmestres (par exemple sur
+[Twitter][]), pour demander l'intégration de votre proposition de
+billet. Si tout va bien, vous devriez recevoir une réponse rapidement.
+Si ce n'est pas le cas, pas d'inquiétude : soit les administrateurs
+sont morts, soit ils sont occupés !
 
 #### Option geek niveau 1
 
