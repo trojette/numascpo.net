@@ -7,6 +7,23 @@ layout: pages
 {{ content }}
 </div>
 
-
+{% if page.categories contains "seance" %}
+{% for post in site.posts %}
+{% if post.categories contains page.categories %}
+ {% if forloop.first %}
+ <hr />
+ <h3>Derniers billets publiés en lien avec cette séance</h3>
+ <ul class="past posts">
+ {% endif %}
+ <li style="list-style-type: none;">
+ <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date:"%d %b" }} </time>
+ ›
+ <span itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></span>
+ {% if forloops.first %}
+ </ul>
+ {% endif %}
+{% endif %}
+{% endfor %}
+{% endif %}
 
 <p class="right">{{ page.date | date_to_string }}</p>
