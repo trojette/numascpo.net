@@ -43,6 +43,23 @@ _Exemple de mémoire collectif_ :
 
 - [Wikipedia][], aboutissement du projet des Encyclopédistes ?
 
+
+  {% for post in site.posts %}
+  {% if post.categories == page.categories %}
+   {% if forloops.first %}
+   <h3>Derniers billets publiés en lien avec cette séance</h3>
+   <ul class="past posts">
+   {% endif %}
+   <li style="list-style-type: none;">
+   <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date:"%d %b" }} </time>
+   ›
+   <span itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></span>
+   {% if forloops.first %}
+   </ul>
+   {% endif %}
+  {% endif %}
+  {% endfor %}
+
 [bibli]: http://fr.wikipedia.org/wiki/Biblioth%C3%A8que_d%27Alexandrie
 [MOOC]: http://fr.wikipedia.org/wiki/MOOC
 [Wikipedia]: http://fr.wikipedia.org
