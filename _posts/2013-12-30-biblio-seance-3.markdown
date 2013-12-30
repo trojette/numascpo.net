@@ -22,13 +22,13 @@ Avec l'aide précieuse de [Suzanne Vergnolle][suzanne].
 
 #### Questions de droit international privé
 
-- DOULCET C., «&nbsp;*La détermination de la loi applicable en matière de protection des données personnelles]*&nbsp;», Lamy, Droit de l’immatériel, p. 70, 2011.
+- DOULCET C., «&nbsp;*La détermination de la loi applicable en matière de protection des données personnelles*&nbsp;», Lamy, Droit de l’immatériel, p. 70, 2011.
 - RAY J.-E., «&nbsp;*Facebook, le salarié et l’employeur*&nbsp;», D. soc. 2011, p. 128.
-- CA de Pau, 1ère Chambre, 12/1373, décision du 23 mars 2012
+- Cour d'appel de Pau, première chambre, 12/1373, décision du 23 mars 2012.
 
 #### *Privacy* et démocratie
 
-- SCHWARTZ P., «&nbsp;*[Privacy and Democracy in Cyberspace][schwartz]*&nbsp;», 52 Vand. L. Rev. 1609
+- SCHWARTZ P., «&nbsp;*[Privacy and Democracy in Cyberspace][schwartz]*&nbsp;», 52 Vand. L. Rev. 1609.
 
 #### Protection des consommateurs
 
