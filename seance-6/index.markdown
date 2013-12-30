@@ -48,7 +48,7 @@ _Exemple de mémoire collectif_ :
 - [*La télévision connectée*][tv@], rapport au ministre de la culture et de
  la communication et au ministre de l'économie numérique, 2011
 - le site de [la Quadrature du Net][lqdn]
-- [Romaine Lubrique][dompub], le site qui enlance le domaine public
+- [Romaine Lubrique][dompub], le site qui enlace le domaine public
 
 [lescure]: http://www.ladocumentationfrancaise.fr/rapports-publics/134000278-mission-acte-ii-de-l-exception-culturelle-contribution-aux-politiques-culturelles
 [tv@]: http://www.ladocumentationfrancaise.fr/rapports-publics/114000707/index.shtml
