@@ -39,7 +39,7 @@ _Exposés proposés_ :
 - Est-il encore possible de faire un [MOOC][] francophone ?
 - Le savoir libre, une utopie ?
 
-Exemple de mémoire collectif :
+_Exemple de mémoire collectif_ :
 
 - [Wikipedia][], aboutissement du projet des Encyclopédistes ?
 
