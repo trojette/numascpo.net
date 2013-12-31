@@ -28,7 +28,7 @@ Avec l'aide précieuse de [Suzanne Vergnolle][suzanne].
 
 #### *Privacy* et démocratie
 
-- SCHWARTZ P., «&nbsp;*[Privacy and Democracy in Cyberspace][schwartz]*&nbsp;», 52 Vand. L. Rev. 1609.
+- SCHWARTZ P., «&nbsp;*[Privacy and Democracy in Cyberspace][schwartz]*&nbsp;», 52 Vand. L. Rev. 1609, 1999.
 
 #### Protection des consommateurs
 
