@@ -22,17 +22,17 @@ Avec l'aide précieuse de [Suzanne Vergnolle][suzanne].
 
 #### Questions de droit international privé
 
-- DOULCET C., «&nbsp;*La détermination de la loi applicable en matière de protection des données personnelles*&nbsp;», Lamy, Droit de l’immatériel, p. 70, 2011.
-- RAY J.-E., «&nbsp;*Facebook, le salarié et l’employeur*&nbsp;», D. soc. 2011, p. 128.
-- Cour d'appel de Pau, première chambre, 12/1373, décision du 23 mars 2012.
+- DOULCET C., «&nbsp;*La détermination de la loi applicable en matière de protection des données personnelles*&nbsp;», Lamy, Droit de l’immatériel,  2011, p. 70.
+- Cour d'appel de Pau, première chambre,  décision du 23 mars 2012, 12/1373.
 
 #### *Privacy* et démocratie
 
-- SCHWARTZ P., «&nbsp;*[Privacy and Democracy in Cyberspace][schwartz]*&nbsp;», 52 Vand. L. Rev. 1609.
+- SCHWARTZ P., «&nbsp;*[Privacy and Democracy in Cyberspace][schwartz]*&nbsp;», 52 Vand. L. Rev. 1609, 1999.
 
 #### Protection des consommateurs
 
-- BERGER D., «&nbsp;*[Balancing Consumer Privacy with Behavorial Targeting][berger]*&nbsp;», 2010.
+- BERGER D., «&nbsp;*[Balancing Consumer Privacy with Behavorial Targeting][berger]*&nbsp;», 27 Santa Clara Computer & High Tech. L.J. 3, 2010.
+- LANCELOT MILTGEN C., «&nbsp;*Vie privée et marketing*&nbsp;», La découverte, Réseaux, 2011/3 - n°167, p. 131 à 166.
 - TUROW J., KING J., HOOFNAGLE C., BLEAKLEY A., HENNESSY M., «&nbsp;*[Contrary to what marketers say, Americans Reject Tailored Advertising][turow]*&nbsp;», 2009.
 
 #### Décisions récentes sur le programme de surveillance de la NSA
