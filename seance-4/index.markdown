@@ -35,6 +35,7 @@ _Exposés proposés_ :
 - Enjeux numériques des négociations transatlantiques
 
 Exemples de mémoires collectifs :
+
 - Un internet, des internet
 - Les GAFA, des États comme les autres ?
 

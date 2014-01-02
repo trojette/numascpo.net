@@ -3,8 +3,7 @@ layout: pages
 title: "Présentations pays"
 ---
 
-
-###La révolution numérique à l'étranger
+### La révolution numérique à l'étranger
 
 Les étudiants sont invités, à chaque séance, à présenter
 la manière dont un pays anticipe, gère ou subit la révolution
@@ -25,6 +24,8 @@ notamment les pays suivants :
 
 Si vous souhaitez contribuer à ce travail, n'hésitez pas à
 [contribuer à ce site][contrib].
+
+### Pays déjà examinés
 
 <ul class="past posts">
   {% for post in site.posts %}
