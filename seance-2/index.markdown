@@ -38,6 +38,9 @@ _Exemple de mémoire collectif_ :
 ### Lectures suggérées
 
 - [*L'Âge de la multitude*][age], H. Verdier et N. Colin, 2012
+- [*Code is law*][lessig], L. Lessig, 2000 ([FR][lessigfr])
 
 [Wikipedia]: http://fr.wikipedia.org/wiki/Troisi%C3%A8me_r%C3%A9volution_industrielle
 [age]: http://www.amazon.fr/L%C3%A2ge-multitude-Entreprendre-gouverner-r%C3%A9volution/dp/2200277830
+[lessig]: http://harvardmagazine.com/2000/01/code-is-law-html
+[lessigfr]: http://www.framablog.org/index.php/post/2010/05/22/code-is-law-lessig
