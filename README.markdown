@@ -16,7 +16,7 @@ conférence.
 
 ## Une difficulté ?
 
-Si vous ne sortez vraiment pas, regardez la [documentation GitHub
+Si vous ne vous en sortez vraiment pas, regardez la [documentation GitHub
 Pages][doc] et collaborez avec les membres de la conférence. En dernier
 recours, adressez-vous à vos enseignants.
 
