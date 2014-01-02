@@ -37,5 +37,7 @@ _Exemple de mémoire collectif_ :
 ### Lectures suggérées
 
 - [*IGN Magazine n° 68*][ign], octobre-novembre-décembre 2012
+- [*Les territoires numériques de la France de demain*][lebreton], C. Lebreton (président de l'Assemblée des départements de France), rapport à la ministre de l'égalité des territoires et du logement, septembre 2013
 
 [ign]: http://www.ign.fr/publications-de-l-ign/Institut/Publications/IGN_Magazine/68/IGNmag68.pdf
+[lebreton]: http://www.ladocumentationfrancaise.fr/rapports-publics/134000628/index.shtml
