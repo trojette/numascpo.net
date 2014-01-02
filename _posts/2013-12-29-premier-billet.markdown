@@ -88,7 +88,7 @@ allowfullscreen></iframe>
 
 ### Une difficulté ?
 
-<p>Si vous ne sortez vraiment pas, regardez la <a
+<p>Si vous ne vous en sortez vraiment pas, regardez la <a
 href="http://help.github.com/pages">documentation GitHub</a> et
 collaborez avec les membres de la conférence. En dernier recours,
 adressez-vous à vos enseignants.</p>
