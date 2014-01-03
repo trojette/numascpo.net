@@ -10,6 +10,10 @@ categories: seance3
 - Le [dossier][arcep] de l'ARCEP.
 - Le [rapport][raudiere] de la commission des affaires économiques.
 
+### Sur la cybersécurité et la cyberdéfense
+
+- [*Cybersecurity and Cyberwar: What Everyone Needs to Know*][cyberwar], P. Singer, A. Friedman, 2013
+
 ### Sur la protection de la vie privée
 
 Avec l'aide précieuse de [Suzanne Vergnolle][suzanne].
@@ -54,3 +58,4 @@ Avec l'aide précieuse de [Suzanne Vergnolle][suzanne].
 [arcep]: http://www.arcep.fr/index.php?id=8652
 [raudiere]: http://www.assemblee-nationale.fr/13/pdf/rap-info/i3336.pdf
 [suzanne]: http://www.twitter.com/SuVergnolle
+[cyberwar]: http://www.amazon.fr/dp/B00GJG6ZB2/ref=cm_sw_r_tw_ask_EhglG.1MBY8YZ
