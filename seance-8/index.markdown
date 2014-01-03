@@ -48,8 +48,10 @@ _Exemple de mémoire collectif_ :
 _Lectures suggérées_ :
 
 - [Présentations][tuesday] du [*Data Tuesday*][datatuesday] sur le thème de la santé
+- Le [programme hôpital numérique][e-hopital] du Gouvernement, 2013
 
 [nobs]: http://leplus.nouvelobs.com/contribution/977458-leo-le-sdf-devenu-developpeur-la-preuve-que-chacun-peut-changer-le-monde-a-son-niveau.html
 [bigbrowser]: http://bigbrowser.blog.lemonde.fr/2013/10/17/tweets-2-rue-le-quotidien-dun-sdf-en-140-signes/
 [tuesday]: http://data-tuesday.com/2014/01/02/decouvrez-les-presentations-de-la-data-tuesday-sante-du-19-novembre-2013/
 [datatuesday]: http://data-tuesday.com
+[e-hopital]: http://www.sante.gouv.fr/le-programme-hopital-numerique.html
