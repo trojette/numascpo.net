@@ -36,8 +36,10 @@ _Exemple de mémoire collectif_ :
 
 ### Lectures suggérées
 
-- [*IGN Magazine n° 68*][ign], octobre-novembre-décembre 2012
-- [*Les territoires numériques de la France de demain*][lebreton], C. Lebreton (président de l'Assemblée des départements de France), rapport à la ministre de l'égalité des territoires et du logement, septembre 2013
+- [*IGN Magazine n° 68*][ign], 2012
+- [*Les territoires numériques de la France de demain*][lebreton], C. Lebreton (président de l'Assemblée des départements de France), rapport à la ministre de l'égalité des territoires et du logement, 2013
+- [*Smart Cities*. Efficace, innovante, participative : comment rendre la ville plus intelligente ?][IdE], rapport de l'Institut de l'entreprise, 2013
 
 [ign]: http://www.ign.fr/publications-de-l-ign/Institut/Publications/IGN_Magazine/68/IGNmag68.pdf
 [lebreton]: http://www.ladocumentationfrancaise.fr/rapports-publics/134000628/index.shtml
+[IdE]: http://www.institut-entreprise.fr/les-publications/smart-cities-efficace-innovante-participative-comment-rendre-la-ville-plus
