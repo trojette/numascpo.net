@@ -6,7 +6,7 @@ Ce site est dédié à l'enseignement &laquo;&nbsp;*État et révolution
 numérique*&raquo;&nbsp; proposé aux élèves du Master d'affaires
 publiques de [SciencesPo Paris][iep] dans le cadre d'une conférence de
 méthode de 12&nbsp;séances. Il a vocation à être collaboratif, tout
-son contenu étant sous [licence ouverte][licence].
+son contenu étant sous [licence CC-BY ou sous licence ouverte][licence].
 
 En somme, ce site deviendra ce que vous en ferez&nbsp;!
 
