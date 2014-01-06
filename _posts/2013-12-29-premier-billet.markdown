@@ -73,7 +73,7 @@ webmestres puissent les consulter.
 
 #### Option geek niveau 2
 
-Vous avez vraiment besoin qu'on vous fasse un dessins, les geeks de
+Vous avez vraiment besoin qu'on vous fasse un dessin, les geeks de
 niveau 2 ? ;-)
 
 Vous prenez l'internet dans une main, votre cerveau dans l'autre et, si
