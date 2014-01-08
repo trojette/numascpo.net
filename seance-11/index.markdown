@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Présentation des mémoires collectifs"
+title:  "Présentation des mémoires collectifs (8 avril)"
 date:   2013-12-29 22:08:48
 categories: seance11
 tags: mémoires collectifs savoir ouvert débat public

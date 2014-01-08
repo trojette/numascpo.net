@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Les enjeux sanitaires et sociaux (25 mars)"
+title:  "Les enjeux sanitaires et sociaux (18 mars)"
 date:   2013-12-30 00:26:30
 categories: seance8
-tags: hôpital emploi protection sociale économie sociale et solidaire quantified self télémédecine big data dossier médical lutte contre l’exclusion questions sociales droit du travail santé publique données de santé
+tags: hôpital emploi protection sociale économie sociale et solidaire quantified self télémédecine big data dossier médical lutte contre l’exclusion questions sociales droit du travail santé publique données de santé inclusion
 ---
 
 ### Pitch

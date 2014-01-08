@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "La politique culturelle 2.0 (11 mars)"
+title:  "La politique culturelle 2.0 (4 mars)"
 date:   2013-12-30 00:01:00
 categories: seance6
 tags: contenus diffusion propriété intellectuelle droit d’auteur licences biens communs régulation CSA ARCEP Hadopi ARPP industries culturelles biens et services culturels musée modèles économiques création/destruction de valeur
@@ -40,6 +40,7 @@ _Exposés proposés_ :
 _Exemple de mémoire collectif_ :
 
 - La régulation d’internet : l’Arlésienne ?
+- La licence globale, vraie ou fausse bonne idée ?
 
 ### Lectures suggérées
 

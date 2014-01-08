@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Territoires numériques (8 avril)"
+title:  "Territoires numériques (1er avril)"
 date:   2013-12-29 22:00:48
 categories: seance10
 tags: collectivités territoriales fracture numérique égalité des territoires outre-mer smart cities logement aménagement transport réseaux smart grids très haut débit gestion des ressources développement durable
@@ -17,6 +17,10 @@ territoires, la gestion des conflits d'usage du foncier, l'organisation
 des transports ou les économies d'énergie sont tous revus à l'aune de
 ce que peuvent nous dire les données géographiques, météorologiques
 ou énergétiques.
+
+Ces problématiques sont d'autant plus aiguës que les territoires
+et leurs habitants ne sont pas égaux dans l'accès aux nouvelles
+technologies.
 
 ### Organisation prévisionnelle de la séance
 

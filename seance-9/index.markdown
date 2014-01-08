@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un levier de croissance économique (1er avril)"
+title: "Un levier de croissance économique (25 mars)"
 date:   2013-12-30 00:40:10
 categories: seance9
 tags: économie innovation R&D frontière technologique fiscalité entreprise start up e-commerce politique industrielle redressement productif commerce extérieur modernisation de l’action publique
@@ -13,15 +13,16 @@ remarqué sur la fiscalité de l'économie numérique, &laquo;&nbsp;*La
 révolution numérique a eu lieu. Elle a donné naissance à une
 économie numérique qui remet en cause notre conception de la création
 de valeur. L’économie numérique repose certes sur des activités
-traditionnelles de production de biens et de services. Mais de plus
-en plus, des startups en amorçage ou des entreprises globales servant
-des centaines de millions d’utilisateurs bouleversent les règles du
-jeu et transforment radicalement tous les secteurs de l’économie&nbsp;: par l’intensité de leur recours aux technologies numériques
-&nbsp;; par le caractère innovant de leurs modèles d’affaires&nbsp;; par
+traditionnelles de production de biens et de services. Mais de plus en
+plus, des startups en amorçage ou des entreprises globales servant des
+centaines de millions d’utilisateurs bouleversent les règles du jeu
+et transforment radicalement tous les secteurs de l’économie&nbsp;:
+par l’intensité de leur recours aux technologies numériques&nbsp;;
+par le caractère innovant de leurs modèles d’affaires&nbsp;; par
 l’abondance du financement auquel elles ont accès, notamment grâce
 au capital‐risque&nbsp;; par l’amélioration en continu du design
-de leurs interfaces et des expériences qu’elles proposent à
-travers leurs applications&nbsp;; par la relation privilégiée qu’elles
+de leurs interfaces et des expériences qu’elles proposent à travers
+leurs applications&nbsp;; par la relation privilégiée qu’elles
 nouent avec les utilisateurs de ces applications&nbsp;; enfin, par le
 levier qu’elles font des données issues de l’activité de ces
 utilisateurs. À travers ces entreprises, l’économie numérique

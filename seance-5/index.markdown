@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Citoyenneté, gouvernance publique et démocratie (4 mars)"
+title:  "Citoyenneté, gouvernance publique et démocratie (18 février)"
 date:   2013-12-29 23:40:48
 categories: seance5
 tags: Open Data Open Government Déclaration des droits de l’homme et du citoyen Constitution données publiques plateformes consultation transparence participation collaboration débat public délibération vote électronique changement nudge hacktivisme

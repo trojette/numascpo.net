@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Créer, acquérir et partager le savoir au XXIe siècle (18 mars)"
+title:  "Créer, acquérir et partager le savoir au XXIe siècle (11 mars)"
 date:   2013-12-29 20:12:48
 categories: seance7
 tags: savoir connaissance sciences éducation enseignement supérieur

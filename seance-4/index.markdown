@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Numérique et questions internationales (18 février)"
+title:  "Numérique et questions internationales (11 février)"
 date:   2013-12-29 23:36:48
 categories: seance4
 tags: gouvernance souveraineté ennemis d’internet normes stratégie d’influence Open Government Partnership soft power réseau social diplomatique G8 G20 DG CNECT Neelie KROES noms de domaine ICANN FGI censure internet 2 ACTA CETA TAFTA TTIP lieux de pouvoir aide au développement développement solidaire

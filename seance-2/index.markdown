@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transformation numérique des organisations (4 février)"
+title: "Transformation numérique des organisations (28 janvier)"
 date: 2013-12-29 21:51:44
 categories: seance2
 tags: numérique systèmes d’information Code is law e-government dématérialisation signature électronique réseaux sociaux cloud big data algorithmes données urbanisation secteur public secteur privé
@@ -28,12 +28,8 @@ _Présentation pays_ : Estonie
 
 _Exposés proposés_ :
 
-- L’émergence de la Multitude
+- L’émergence de la &laquo;*multitude*&raquo;
 - L’e-administration, vecteur de modernisation de l’action publique
-
-_Exemple de mémoire collectif_ :
-
-- La France est-elle prête pour la révolution numérique ?
 
 ### Lectures suggérées
 

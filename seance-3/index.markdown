@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Liberté, justice, sécurité et défense (11 février)"
+title:  "Liberté, justice, sécurité et défense (4 février)"
 date:   2013-12-30 23:01:48
 categories: seance3
 tags: droit territorialité libertés publiques libertés individuelles vie privée CNIL cybercriminalité surveillance SCADA ANSSI DCRI DGSE cybersécurité lutte anti-terroriste souveraineté cyberdéfense Patriot Act Echelon NSA GCHQ PRISM virus malware spyware DPI Stuxnet intelligence économique Wikileaks Anonymous systèmes centralisés et distribués cryptographie logiciels libres et ouverts

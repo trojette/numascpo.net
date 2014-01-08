@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction à la révolution numérique (28 janvier)"
+title: "Introduction à la révolution numérique (21 janvier)"
 date: 2013-12-29 14:56:44
 categories: seance1
 tags: État collectivités administration révolution numérique
