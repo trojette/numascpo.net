@@ -29,7 +29,7 @@ La conférence s’adresse à tous les étudiants désireux de se
 familiariser avec ou d’approfondir ces questions. Elle apporte, de
 plus, des connaissances générales utiles aux candidats aux concours
 administratifs, puisqu’elle recouvre toutes les épreuves d’écrit
-et d’oral, en particulier pour l’[ENA][], l’[INET][] et l'[EHESP][].
+et d’oral.
 
 ### Organisation prévisionnelle de la séance
 
