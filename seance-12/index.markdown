@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stratégie numérique publique et réforme de l'État (15 avril)"
+title:  "Stratégie numérique de l'État (15 avril)"
 date:   2013-12-29 20:12:48
 categories: seance12
 tags: conclusion stratégie réforme
