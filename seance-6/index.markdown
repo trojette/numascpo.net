@@ -46,6 +46,9 @@ _Exemple de mémoire collectif_ :
 
 - [*L'acte 2 de l'exception culturelle*][lescure], rapport à la
  ministre de la culture et de la communication, 2013
+- [*Ouverture et partage des données publiques culturelles, pour une
+(r)évolution numérique dans le secteur culturel*][MCC], rapport du
+chef du département des programmes numériques, 2013
 - [*La télévision connectée*][tv@], rapport au ministre de la culture et de
  la communication et au ministre de l'économie numérique, 2011
 - le site de [la Quadrature du Net][lqdn]
@@ -55,3 +58,4 @@ _Exemple de mémoire collectif_ :
 [tv@]: http://www.ladocumentationfrancaise.fr/rapports-publics/114000707/index.shtml
 [lqdn]: http://www.laquadrature.net/
 [dompub]: http://romainelubrique.org/
+[MCC]: http://www.culturecommunication.gouv.fr/content/download/85840/645194/file/201312_Rapport_Open_Data_Culturel.pdf
