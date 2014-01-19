@@ -26,13 +26,13 @@ technologies.
 
 _Point d’actualité_
 
-_Présentation pays_ : Russie
+_Présentations pays_ : Australie, Russie
 
 _Exposés proposés_ :
 
 - Mieux gérer l’énergie
 - Regards croisés sur les stratégies numériques de Paris, Londres,
-  Amsterdam, Bruxelles et San Francisco
+  Amsterdam, Bruxelles, New York et San Francisco
 
 _Exemple de mémoire collectif_ :
 

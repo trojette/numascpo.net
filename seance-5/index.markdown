@@ -32,7 +32,7 @@ citoyenneté à l'heure du numérique ?
 
 _Point d’actualité_
 
-_Présentation pays_ : Royaume-Uni
+_Présentations pays_ : Royaume-Uni et Tunisie
 
 _Exposés proposés_ :
 

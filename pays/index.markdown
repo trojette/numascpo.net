@@ -16,10 +16,12 @@ notamment les pays suivants :
  - États-Unis
  - Chine
  - Royaume-Uni
+ - Tunisie
  - Corée du Sud 
  - Canada
  - Danemark
  - Japon
+ - Australie
  - Russie
 
 Si vous souhaitez contribuer à ce travail, n'hésitez pas à
