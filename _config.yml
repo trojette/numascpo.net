@@ -1,11 +1,11 @@
-name: État et révolution numérique
+name: L'État et la révolution numérique
 markdown: redcarpet
 pygments: true
 permalink: /blog/:categories/:year/:month/:day/:title.html
 url: http://www.numascpo.net
 base_url: /
 
-title: "État et révolution numérique"
+title: "L'État et la révolution numérique"
 description: "Site de la conférence de méthode du Master d'affaires publiques de SciencesPo Paris"
 
 toplinks: ['blog', 'pays', 'calendrier', 'licence']

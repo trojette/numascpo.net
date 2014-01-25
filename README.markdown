@@ -1,4 +1,4 @@
-# État et révolution numérique
+# L'État et la révolution numérique
 
 ## Bienvenue
 
