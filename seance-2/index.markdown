@@ -28,7 +28,7 @@ _Présentation pays_ : Estonie
 
 _Exposés proposés_ :
 
-- L’émergence de la &laquo;*multitude*&raquo;
+- L’émergence de la &laquo;&nbsp;*multitude*&nbsp;&raquo;
 - L’e-administration, vecteur de modernisation de l’action publique
 
 ### Lectures suggérées
