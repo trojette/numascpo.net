@@ -29,7 +29,9 @@ _Présentation pays_ : États-Unis
 _Exposés proposés_ :
 
 - Les lanceurs d’alerte («&nbsp;*whistle blowers*&nbsp;») : traître ou héros ?
-- La neutralité du Net
+- [La neutralité du net](https://fr.slideshare.net/MaximeALAYEDDINE/la-neutralit-du-net-30775841 "La neutralité du net - Etat et révolution numérique - Sciences Po Master Affaires publiques 2014")
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/30775841" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 _Exemple de mémoire collectif_ :
 
