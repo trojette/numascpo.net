@@ -46,7 +46,7 @@ Avec l'aide précieuse de [Suzanne Vergnolle][suzanne].
 
 #### Roman
 
-- Dave Eggers, [The Circle][circle], McSweeney's, 544&nbsp;p., 2013.
+- Dave Eggers, [The Circle][circle], McSweeney's, p. 491, 2013.
 
 
 [schwartz]: http://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=2162&context=facpubs
