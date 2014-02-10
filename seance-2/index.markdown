@@ -26,7 +26,7 @@ _Point d’actualité_
 
 _Présentation pays_ : Estonie
 
-_Exposés proposés_ :
+_Exposés présentés_ :
 
 - L’émergence de la &laquo;&nbsp;*multitude*&nbsp;&raquo;
 - L’e-administration, vecteur de modernisation de l’action publique

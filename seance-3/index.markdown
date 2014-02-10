@@ -26,7 +26,7 @@ _Point d’actualité_
 
 _Présentation pays_ : États-Unis
 
-_Exposés proposés_ :
+_Exposés présentés_ :
 
 - Les lanceurs d’alerte («&nbsp;*whistle blowers*&nbsp;») : traître ou héros ?
 - [La neutralité du net](https://fr.slideshare.net/MaximeALAYEDDINE/la-neutralit-du-net-30775841 "La neutralité du net - Etat et révolution numérique - Sciences Po Master Affaires publiques 2014")
