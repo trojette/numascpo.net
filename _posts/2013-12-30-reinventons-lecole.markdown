@@ -71,5 +71,5 @@ Prestation que vous pourrez retrouver en version longue, lors de son
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/NMr3ShT_Kl4?rel=0" frameborder="0" allowfullscreen></iframe>
 
-
+[etudiant]: http://www.letudiant.fr/educpros/actualite/video-reinventons-l-ecole-les-meilleures-conferences-ted-sur-l-innovation-pedagogique.html
 [cap]: http://www.henriverdier.com/2010/04/lintegrale-de-la-conference-de-sugata.html
